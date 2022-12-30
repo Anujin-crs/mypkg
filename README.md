@@ -1,5 +1,5 @@
 # mypkg
-![test] (https://github.com/Anujin-crs/mypkg/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Anujin-crs/mypkg/actions/workflows/test.yml/badge.svg)
 
 Assignment project for "Robot system" class which includes ROS2 program commands and test file.
 
@@ -65,7 +65,7 @@ Output example:
 * © 2022 Anujin-crs
 
 #### Citation
-["Robot System" lesson slides of Professor Ryuichi Ueda] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-[Youtube channel @BotBuilder] (https://www.youtube.com/@botbuilder3492)
+["Robot System" lesson slides of Professor Ryuichi Ueda](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+[Youtube channel @BotBuilder](https://www.youtube.com/@botbuilder3492)
  
   
