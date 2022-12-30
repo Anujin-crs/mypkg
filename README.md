@@ -12,8 +12,15 @@ From talker node we publish linear velocity and angular velocity data of the tur
 With the help of turtlesim application of ROS, we can see the spiral movement of turtle.
 
 ## Command usage 
+Run each command on different interface
 
-###talker.py
+### turtlesim interface
+to run turtlesim application:
+```bash
+$ ros2 run turtlesim turtlesim_node
+```
+
+### talker.py
 Input example:
 ```bash
 $ ros2 run mypkg talker 1.0 2.0 -0.2  # parameters
@@ -26,7 +33,7 @@ Output example:
 [INFO] [1672401246.376259800] [talker_publisher_spiral]: Sending - Linear Velocity : 1.000000, Angular Velocity : 1.400000
 ```
 
-###listener.py
+### listener.py
 Input example:
 ```bash
 $ ros2 run mypkg listener
@@ -40,7 +47,7 @@ Output example:
 ```
 
 ## Required software
-* Python
+* Python 3.10
 * ROS2
 * Turtlesim
 
@@ -58,7 +65,7 @@ Output example:
 * © 2022 Anujin-crs
 
 #### Citation
-** ["Robot System" lesson slides of Professor Ryuichi Ueda] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-** [Youtube channel @BotBuilder] (https://www.youtube.com/@botbuilder3492)
+["Robot System" lesson slides of Professor Ryuichi Ueda] (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+[Youtube channel @BotBuilder] (https://www.youtube.com/@botbuilder3492)
  
   
