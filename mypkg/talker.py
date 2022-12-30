@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Anujin-crs 
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 import rclpy
 from rclpy.node import Node

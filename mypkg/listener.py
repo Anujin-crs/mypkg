@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Anujin-crs 
+# SPDX-License-Identifier: BSD-3-Clause
+
 import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Twist
