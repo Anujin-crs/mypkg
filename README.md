@@ -65,7 +65,7 @@ Output example:
 * © 2022 Anujin-crs
 
 #### Citation
-["Robot System" lesson slides of Professor Ryuichi Ueda](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-[Youtube channel @BotBuilder](https://www.youtube.com/@botbuilder3492)
+* ["Robot System" lesson slides of Professor Ryuichi Ueda](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* [Youtube channel @BotBuilder](https://www.youtube.com/@botbuilder3492)
  
   
