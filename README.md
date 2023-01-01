@@ -1,10 +1,9 @@
-# Turtle
+# mypkg
 
-Assignment project for "Robot system" class which includes ROS2 program commands and test file. 
+Assignment project for "Robot system" class which includes ROS2 program commands and test file.
+This package contains the program that shows us spiral movement of turtle in 2D turtlesim program. 
 
 ![test](https://github.com/Anujin-crs/mypkg/actions/workflows/test.yml/badge.svg)
-
-This package includes node that shows us spiral movement of turtle in 2D turtlesim program.
 
 # Commands
 
